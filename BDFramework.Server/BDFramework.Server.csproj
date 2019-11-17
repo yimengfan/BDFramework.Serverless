@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+        <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+        <LangVersion>8</LangVersion>
+        <RootNamespace>WebAPI</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.App" />
+        <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\BD.CaChe\BD.CaChe.csproj" />
+      <ProjectReference Include="..\BD.MQ\BD.MQ.csproj" />
+      <ProjectReference Include="..\BD.SQL\BD.SQL.csproj" />
+    </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Dapper.GraphQL" Version="0.4.2-beta" />
+      <PackageReference Include="GraphQL" Version="3.0.0-preview-1271" />
+    </ItemGroup>
+
+</Project>
