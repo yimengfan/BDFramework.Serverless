@@ -1,2 +1,2 @@
 # BDFramework.Server
-A powerful gameserver  by .net core!
+A powerful distribution gameserver  by .net core!
