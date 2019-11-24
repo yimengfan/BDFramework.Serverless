@@ -1,7 +1,5 @@
 # BDFramework.Server
 A powerful distribution gameserver  by .net core!
-# BDFramework.Server
-A powerful distribution gameserver  by .net core!
 
 ## 架构描述
 运维部署工具: ansible   
