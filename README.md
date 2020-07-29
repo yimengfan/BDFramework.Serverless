@@ -1,5 +1,5 @@
 # BDFramework.Server
-A powerful distribution gameserver  by .net core!
+A powerful distribution game api server  by node!
 
 ## 架构描述
 CI工具:Teamcity  
